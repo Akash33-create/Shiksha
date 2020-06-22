@@ -1,4 +1,4 @@
-package my.shiksha.Educationalsdk.initsdk;
+package my.Shiksha.Educationalsdk.initsdk;
 
 public interface AuthConstants {
 
