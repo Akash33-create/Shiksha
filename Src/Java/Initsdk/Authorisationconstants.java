@@ -3,7 +3,7 @@ package my.shiksha.Educationalsdk.initsdk;
 public interface AuthConstants {
 
 	// TODO Change it to your web domain
-	public final static String WEB_DOMAIN = "zoom.us";
+	public final static String WEB_DOMAIN = "";
 
 	// TODO Change it to your APP Key
 	public final static String SDK_KEY = "";
